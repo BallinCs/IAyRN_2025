@@ -1,0 +1,1 @@
+Pia clase int artificial
